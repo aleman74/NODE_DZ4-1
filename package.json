@@ -1,0 +1,19 @@
+{
+  "name": "node_dz4-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleman74/NODE_DZ4-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleman74/NODE_DZ4-1/issues"
+  },
+  "homepage": "https://github.com/aleman74/NODE_DZ4-1#readme"
+}
